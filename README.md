@@ -11,3 +11,17 @@ No arquivo ``` index.html ```, já está sendo importando os seguinte css
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/reset.css" />
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,900;1,100;1,300&display=swap" rel="stylesheet">
+
+## 🚀 Bora, vamos começar?
+🔩 Muito bom, vamos começar a desenvolver o nosso layout 😀
+
+## 🥇 Começando
+🔧 As imagens já existe no projeto
+
+No final dessa mentoria, você com certeza vai estar bem melhor com html e css.
+E aprender, os seguintes temas 😀
+
+* Seguir um layout, que o designer desenvolveu
+* Css e Pseudo-elementos
+* Trabalhar com posicionamento
+* Distribuir cores no css
