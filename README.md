@@ -6,6 +6,10 @@ Iremos desenvolver um layout de uma página
 
 <img src="https://github.com/giovannirwp/mentoria-invertida-css-html/blob/main/img/print-layout01.png" widt="750" />
 
+📌 Link do layout pronto, para visualização
+<a href="https://giovannirwp.github.io/html-css-layout/" target="_blank">Layout pronto, para visualização</a>
+<a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a>
+
 ### 📋 Explicação
 Já existe, o ```reset.css``` e ``` index.html ```
 Essa estrutura, já existe para ajudar no desenvolvimento. Isso seguinifica que não vai precisar criar novos arquivos.
