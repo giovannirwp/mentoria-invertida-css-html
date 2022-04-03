@@ -6,7 +6,16 @@ Iremos desenvolver um layout de um login
 
 <img src="https://github.com/giovannirwp/mentoria-invertida-css-html/blob/main/img/print-layout01.png" widt="750" />
 
+### 📋 Explicação
+Já existe, o ```reset.css``` e ``` index.html ```
+Essa estrutura, já existe para ajudar no desenvolvimento. Isso seguinifica que não vai precisar criar novos arquivos.
 
+No arquivo ``` index.html ```, já está sendo importando os seguinte css
+```     
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/reset.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,500;1,400&display=swap" rel="stylesheet">
+```
 
 ## 🚀 Bora, vamos começar?
 🔩 Muito bom, vamos começar a desenvolver o nosso layout 😀
